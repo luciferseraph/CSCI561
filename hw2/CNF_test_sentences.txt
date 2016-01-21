@@ -1,0 +1,11 @@
+25
+["and", ["or", "B", ["not", "A"], "A"], ["or", "C", ["not", "A"], "A"], ["or", "B", ["not", "A"], "C"], ["or", "A", ["not", "B"], ["not", "C"]], ["or", "B", "C", ["not", "B"], ["not", "C"], "A"]]
+["and", ["or", "A", "B"], ["or", ["not", "B"], ["not", "D"]], ["or", "C", "D"], ["or", ["not", "D"], ["not", "E"]], ["or", "E", ["not", "F"]], ["or", "F", "G"], ["or", "F", ["not", "G"]], ["or", "G", ["not", "P"]], ["or", "H", ["not", "I"]], ["or", ["not", "H"], ["not", "N"]], ["or", "I", "J"], ["or", "I", ["not", "J"]], ["or", ["not", "J"], ["not", "K"]], ["or", "J", "L"], ["or", "K", "L"], ["or", "M", "N"], ["or", "N", ["not", "O"]], ["or", "O", "P"]]
+["and", ["or", "P", "Q", ["not", "R"]], ["or", ["not", "P"], "R"], ["or", "P", ["not", "Q"], "S"], ["or", ["not", "P"], ["not", "Q"], ["not", "R"]], ["or", "P", ["not", "S"]]]
+["and", ["or", "A", "B"], ["or", ["not", "A"], "C"], ["or", ["not", "B"], "C"], ["or", ["not", "C"], "B"]]
+["and", ["or", ["not", "P"], "P"], ["or", "Q", "P", ["not", "P"]], ["or", ["not", "P"], ["not", "Q"], "P"], ["or", "Q", ["not", "Q"], "P", ["not", "P"]], ["or", ["not", "P"], ["not", "Q"], "Q"], ["or", "Q", "P", ["not", "Q"]], ["or", "Q", ["not", "Q"]]]
+["and", ["or", "P", "Q", "R"], ["or", "P", ["not", "Q"]], ["or", "Q", ["not", "R"]], ["or", "R", ["not", "P"]], ["or", ["not", "P"], ["not", "Q"], ["not", "R"]]]
+["and", ["or", "P", ["not", "Q"], ["not", "R"]], ["or", ["not", "P"], ["not", "R"]], ["or", "P", "Q"], ["or", "Q", "R"], ["or", "P", ["not", "Q"], "R"]]
+["and", ["or", "Q", "R", ["not", "S"]], ["or", ["not", "Q"], "R", ["not", "S"]], ["or", ["not", "Q"], ["not", "R"], "S"], ["or", "Q", ["not", "R"], "S"], ["or", ["not", "Q"], "R", "S"], ["or", ["not", "P"], ["not", "R"], ["not", "S"]], ["or", "P", ["not", "R"], ["not", "S"]], ["or", "P", ["not", "R"], "S"], ["or", ["not", "P"], "R", "S"], ["or", ["not", "P"], "Q", ["not", "S"]], ["or", "P", ["not", "Q"], "S"], ["or", "P", "Q", "R"]]
+["and", ["or", "A", ["not", "B"]], ["or", ["not", "A"], "B"], ["or", "A", "B"], ["or", ["not", "A"], ["not", "B"]]]
+["and", "A", "B", ["not", "C"], "D", ["not", "E"], ["not", "F"], "G", ["not", "H"], "I", "J", "K", ["not", "L"], "M", "N", "O", ["not", "P"], "Q", ["not", "R"], ["not", "S"], "T", ["not", "U"], ["not", "V"], "W", "X", ["not", "Y"], "Z"]
